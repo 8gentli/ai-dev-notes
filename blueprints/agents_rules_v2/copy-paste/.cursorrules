@@ -1,0 +1,14 @@
+# .cursorrules
+
+## Source of Truth
+
+- Follow AGENTS.md for all shared workflow and safety rules.
+- Keep this file concise and Cursor-specific.
+
+## Cursor-Specific Rules
+
+1. Read the relevant files first.
+2. Make the smallest possible change.
+3. Preserve style and existing design choices.
+4. Validate with tests, lint, or the best available check.
+5. Do not use destructive commands unless explicitly asked.
