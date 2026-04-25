@@ -29,6 +29,10 @@ A practical, searchable knowledge repo for day-to-day AI-assisted development.
 
 See `REPO_RULES.md` and `AGENTS.md`.
 
+## Repo timeline
+
+See `HISTORY.md` for when and where this repo was created, and key milestones.
+
 ## Suggested first files
 
 - `inbox/2026-04.md`
